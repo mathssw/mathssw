@@ -1,36 +1,52 @@
-# 👋 Hi, I'm Francisco Jeremías
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-🎓 2nd-year **Software Development Student (Analyst Programmer)** at INACAP, Chile.  
-💻 Passionate about backend development, learning new technologies, and building practical projects.  
-🚀 Currently focused on **Python, Kotlin, and Java**, with hands-on experience in:  
-- Developing **Minecraft plugins (Spigot/Paper)**  
-- Creating **Discord bots with JDA**  
-- Working with **databases (SQL & MongoDB)**  
-- Academic projects in **secure development and data structures**  
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+</div>
 
-## 🔧 Tech Stack
-- **Languages:** Python · Kotlin · Java · SQL  
-- **Frameworks / Libraries:** Spigot API · JDA · Jedis  
-- **Tools:** Git · GitHub · Gradle · Maven · IntelliJ IDEA · PyCharm  
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## 📂 Featured Projects
-- 🎮 **Crates System (Spigot/Kotlin)** → Fully configurable crate plugin.  
-- 🧩 **Queue Menu System (Spigot/Kotlin)** → Visual queue system with server status support.  
-- 🤖 **Discord Bot (JDA/Kotlin)** → User and role synchronization with MongoDB.  
-- 🎯 **Points System (Python)** → Academic project focused on secure data structures.  
+###
 
-*(More projects available in my repositories 👇)*  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mathssw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mathssw&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+###
 
-## 📫 Contact
-- ✉️ **Email:** francisco.soportes@gmail.com  
-- 🌐 **GitHub:** [github.com/mathssw](https://github.com/mathssw)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathssw/mathssw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathssw/mathssw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mathssw/mathssw/output/pacman-contribution-graph.svg">
+</picture>
 
----
+###
 
-✨ Always open to collaborate, learn, and grow as a developer.
+### 👨‍💻 About Me  
+- 📍 From **Chile** 🇨🇱  
+- 🎓 Currently studying at **INACAP**  
+- 💻 2 years of experience as a **Software Analyst Programmer**  
+- 🔞 20 years old  
+- 🚀 Passionate about **Backend Development, Minecraft Plugins, and System Design**  

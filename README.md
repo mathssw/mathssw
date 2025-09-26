@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Francisco Jeremías
 
-<!--
-**mathssw/mathssw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year **Software Development Student (Analyst Programmer)** at INACAP, Chile.  
+💻 Passionate about backend development, learning new technologies, and building practical projects.  
+🚀 Currently focused on **Python, Kotlin, and Java**, with hands-on experience in:  
+- Developing **Minecraft plugins (Spigot/Paper)**  
+- Creating **Discord bots with JDA**  
+- Working with **databases (SQL & MongoDB)**  
+- Academic projects in **secure development and data structures**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python · Kotlin · Java · SQL  
+- **Frameworks / Libraries:** Spigot API · JDA · Jedis  
+- **Tools:** Git · GitHub · Gradle · Maven · IntelliJ IDEA · PyCharm  
+
+---
+
+## 📂 Featured Projects
+- 🎮 **Crates System (Spigot/Kotlin)** → Fully configurable crate plugin.  
+- 🧩 **Queue Menu System (Spigot/Kotlin)** → Visual queue system with server status support.  
+- 🤖 **Discord Bot (JDA/Kotlin)** → User and role synchronization with MongoDB.  
+- 🎯 **Points System (Python)** → Academic project focused on secure data structures.  
+
+*(More projects available in my repositories 👇)*  
+
+---
+
+## 📫 Contact
+- ✉️ **Email:** francisco.soportes@gmail.com  
+- 🌐 **GitHub:** [github.com/mathssw](https://github.com/mathssw)  
+
+---
+
+✨ Always open to collaborate, learn, and grow as a developer.

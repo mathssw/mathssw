@@ -45,8 +45,6 @@
 ###
 
 ### 👨‍💻 About Me  
-- 📍 From **Chile** 🇨🇱  
-- 🎓 Currently studying at **INACAP**  
 - 💻 2 years of experience as a **Software Analyst Programmer**  
 - 🔞 20 years old  
 - 🚀 Passionate about **Backend Development, Minecraft Plugins, and System Design**  
